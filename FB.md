@@ -1,5 +1,5 @@
 ---
-title: Jekyll Redirect 301
+title: Redirect FB
 redirect_to:
   - https://www.facebook.com/
 permalink:
