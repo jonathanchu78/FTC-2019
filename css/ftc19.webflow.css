@@ -2133,7 +2133,7 @@ p {
   }
   .heading.application {
     margin-bottom: 0px;
-    padding-bottom: 28px;
+    padding-bottom: 0px;
   }
   .heading.home-title {
     margin-top: 640px;
@@ -2150,7 +2150,8 @@ p {
     margin-top: 91px;
   }
   .deadlines.top {
-    margin-top: 42px;
+    margin-top: 0px;
+    padding-top: 0px;
   }
   .section-13.workshop {
     margin-top: 225px;
@@ -2385,6 +2386,14 @@ p {
   }
   .name.school {
     font-size: 25px;
+    text-align: center;
+  }
+  .name.advisors {
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
+    align-self: center;
+    text-align: center;
   }
   .name.faq {
     margin-top: 6px;
@@ -2393,6 +2402,7 @@ p {
   }
   .name.why {
     font-size: 30px;
+    text-align: center;
   }
   .form-button {
     min-height: 150px;
@@ -2408,6 +2418,9 @@ p {
   }
   .body-2.home {
     background-color: #0b0e1b;
+  }
+  .columns-3 {
+    margin-top: 20px;
   }
   .tab-link-tab-2-2 {
     margin-bottom: 14px;
@@ -2443,6 +2456,8 @@ p {
     padding-left: 0px;
   }
   .column-6 {
+    margin-top: -10px;
+    padding-top: 0px;
     padding-right: 0px;
     padding-left: 0px;
   }
@@ -2460,8 +2475,17 @@ p {
   .heading.home-title {
     margin-top: 195px;
   }
+  .heading.about {
+    margin-bottom: 0px;
+  }
+  .what {
+    padding-top: 0px;
+  }
   .columns-6 {
     padding-top: 2px;
+  }
+  .html-embed-3 {
+    padding-top: 0px;
   }
   .column-7 {
     padding-right: 35px;
@@ -2565,6 +2589,9 @@ p {
     padding-right: 0px;
     padding-left: 0px;
     font-size: 13px;
+  }
+  .image-35 {
+    margin-top: 0px;
   }
   .button-3.mobile-button {
     margin-left: 30px;
